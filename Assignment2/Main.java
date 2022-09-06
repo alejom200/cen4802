@@ -6,7 +6,7 @@ public class Main {
     /**
      * This method counts the n-th term in the Fibonacci sequence.
      * @param n Number of the term you need in the Fibonacci sequence.
-     * @return n-th term in the Fibonacci sequence.
+     * @return n-th term in the Fibonacci sequence..
      *
      * @author Alejandro Marin
      */
